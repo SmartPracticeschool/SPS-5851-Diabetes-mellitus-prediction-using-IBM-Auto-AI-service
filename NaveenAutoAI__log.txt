@@ -1,0 +1,60 @@
+AUTOAI EXPERIMENT LOG FILE
+
+-  Date: 10/11/2020
+-  Start time: 10:58:15 AM
+-  End time: 
+-  Time elapsed: 3 minutes
+
+-  Experiment name: NaveenAutoAI
+-  Data source: pima-indians-diabetes.data.csv
+-  Watson Studio asset: a4924131-a0f0-44d0-8094-bf7642219fa1
+-  Watson Machine Learning training guid: 049ccb97-b7db-44e1-9b5b-5428af515395
+
+INFO   10/11/2020, 10:58:47 AM   Train_log_msg_starting
+INFO   10/11/2020, 10:59:08 AM   Train_log_msg_autoai_model_computed
+INFO   10/11/2020, 10:59:08 AM   Train_log_msg_model_optimization_start
+INFO   10/11/2020, 10:59:08 AM   Train_log_msg_autoai_model_computed
+INFO   10/11/2020, 10:59:14 AM   Train_log_msg_model_optimization_complete
+INFO   10/11/2020, 10:59:14 AM   Train_log_msg_autoai_model_computed
+INFO   10/11/2020, 10:59:19 AM   Train_log_msg_model_optimization_complete
+INFO   10/11/2020, 10:59:19 AM   Train_log_msg_autoai_model_computed
+INFO   10/11/2020, 10:59:27 AM   Train_log_msg_model_optimization_complete
+INFO   10/11/2020, 10:59:27 AM   Train_log_msg_autoai_model_computed
+INFO   10/11/2020, 10:59:33 AM   Train_log_msg_model_optimization_complete
+INFO   10/11/2020, 10:59:33 AM   Train_log_msg_autoai_model_computed
+INFO   10/11/2020, 10:59:38 AM   Train_log_msg_feature_engineering_complete
+INFO   10/11/2020, 10:59:43 AM   Train_log_msg_autoai_model_computed
+INFO   10/11/2020, 10:59:44 AM   Train_log_msg_feature_engineering_start
+INFO   10/11/2020, 10:59:44 AM   Train_log_msg_autoai_model_computed
+INFO   10/11/2020, 10:59:49 AM   Train_log_msg_feature_engineering_complete
+INFO   10/11/2020, 10:59:49 AM   Train_log_msg_autoai_model_computed
+INFO   10/11/2020, 10:59:54 AM   Train_log_msg_feature_engineering_complete
+INFO   10/11/2020, 10:59:54 AM   Train_log_msg_autoai_model_computed
+INFO   10/11/2020, 10:59:59 AM   Train_log_msg_feature_engineering_complete
+INFO   10/11/2020, 10:59:59 AM   Train_log_msg_autoai_model_computed
+INFO   10/11/2020, 11:00:05 AM   Train_log_msg_feature_engineering_complete
+INFO   10/11/2020, 11:00:05 AM   Train_log_msg_autoai_model_computed
+INFO   10/11/2020, 11:00:10 AM   Train_log_msg_feature_engineering_complete
+INFO   10/11/2020, 11:00:10 AM   Train_log_msg_autoai_model_computed
+INFO   10/11/2020, 11:00:15 AM   Train_log_msg_feature_engineering_complete
+INFO   10/11/2020, 11:00:15 AM   Train_log_msg_autoai_model_computed
+INFO   10/11/2020, 11:00:21 AM   Train_log_msg_feature_engineering_complete
+INFO   10/11/2020, 11:00:21 AM   Train_log_msg_autoai_model_computed
+INFO   10/11/2020, 11:00:26 AM   Train_log_msg_feature_engineering_complete
+INFO   10/11/2020, 11:00:26 AM   Train_log_msg_autoai_model_computed
+INFO   10/11/2020, 11:00:32 AM   Train_log_msg_feature_engineering_complete
+INFO   10/11/2020, 11:00:32 AM   Train_log_msg_autoai_model_computed
+INFO   10/11/2020, 11:00:39 AM   Train_log_msg_feature_engineering_complete
+INFO   10/11/2020, 11:00:39 AM   Train_log_msg_autoai_model_computed
+INFO   10/11/2020, 11:00:44 AM   Train_log_msg_feature_engineering_complete
+INFO   10/11/2020, 11:00:44 AM   Train_log_msg_autoai_model_computed
+INFO   10/11/2020, 11:00:50 AM   Train_log_msg_feature_engineering_complete
+INFO   10/11/2020, 11:00:50 AM   Train_log_msg_autoai_model_computed
+INFO   10/11/2020, 11:00:56 AM   Train_log_msg_feature_engineering_complete
+INFO   10/11/2020, 11:00:56 AM   Train_log_msg_autoai_model_computed
+INFO   10/11/2020, 11:01:02 AM   Train_log_msg_feature_engineering_complete
+INFO   10/11/2020, 11:01:02 AM   Train_log_msg_autoai_model_computed
+INFO   10/11/2020, 11:01:08 AM   Train_log_msg_feature_engineering_complete
+INFO   10/11/2020, 11:01:08 AM   Train_log_msg_autoai_model_computed
+INFO   10/11/2020, 11:01:14 AM   Train_log_msg_feature_engineering_complete
+INFO   10/11/2020, 11:01:14 AM   Train_log_msg_autoai_model_computed
